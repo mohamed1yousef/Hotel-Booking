@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1704895944 source:d:\codes\hotel_booking\hotel_program.c
+	<stdio.h>
+	"hotel_interfacing.h"
+
+1704812861 d:\codes\hotel_booking\hotel_config.h
+	<stdio.h>
+	<stdlib.h>
+
+1704896164 source:d:\codes\hotel_booking\main.c
+	<stdio.h>
+	"hotel_interfacing.h"
+
+1704813610 d:\codes\hotel_booking\hotel_program.c
+	<stdio.h>
+	"hotel_interfacing.h"
+
+1704896206 d:\codes\hotel_booking\hotel_interfacing.h
+

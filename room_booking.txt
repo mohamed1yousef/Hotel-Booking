@@ -1,0 +1,8 @@
+	 ROOM:[12]	
+ customer name:- mohamed	
+ address: newyorl	
+ arrival_date:- 12/2	
+ period :- 21	
+ customer nationality:- egypt	
+ customer phone_num:- 01030856850	
+ customer email:my612m41@gmia	
